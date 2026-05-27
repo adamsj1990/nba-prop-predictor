@@ -4,5 +4,5 @@ numpy
 xgboost
 scikit-learn
 scipy
-kagglehub
+kagglehub[panda-datasets]
 requests
